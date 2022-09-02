@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => console.log(`Server Running on port: http://localhost:${PORT}`));
 
 
-// Setup MongoDB 
+// Setup MongoDB
 // Production Heroku
 // Authentification [JWT]
 // Stripe
